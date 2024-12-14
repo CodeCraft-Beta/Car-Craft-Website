@@ -1,11 +1,17 @@
 # Car-Craft-Website
 This is Car-Craft-Website. I am make Following Section in this Website.
 
-+ **PORTFOLIO**
++ **Home**
 
-+ **ABOUT**
++ **Offers**
 
-+ **CONTACT**
++ **About Us**
+
++ **Work**
+
++ **Price**
+
++ **Contact Us**
 
 Watch more Website Template in my Website.
 
